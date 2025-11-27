@@ -2,9 +2,9 @@
 
 ## 📋 Table of Contents
 
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
+1. [Tech Stack](#-tech-stack)
+2. [Features](#-features)
+3. [Quick Start](#-quick-start)
 
 ---
 
