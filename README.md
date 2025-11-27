@@ -1,13 +1,5 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
 
-## 📋 Table of Contents
-
-1. [Tech Stack](#-tech-stack)
-2. [Features](#-features)
-3. [Quick Start](#-quick-start)
-
----
-
 ## ⚙️ Tech Stack
 
 - **React** – Component-based UI development
