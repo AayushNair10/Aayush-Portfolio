@@ -31,7 +31,7 @@ export const AboutSection = () => {
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a 
-                href="https://drive.google.com/uc?export=download&id=1K2LvT4N2kEmUgbVibif78iAn8P781VQP"
+                href="https://drive.google.com/uc?export=download&id=1yr4KWGzpf36fQ7PJAuaWtm_NEeHVaT3l"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cosmic-button">
